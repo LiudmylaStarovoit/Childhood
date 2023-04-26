@@ -1,3 +1,3 @@
 # Childhood
 
-Wordpress Website with custom theme.
+Wordpress website with custom theme.
